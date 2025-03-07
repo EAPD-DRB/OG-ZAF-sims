@@ -1,0 +1,1 @@
+This file is a placeholder that can be thrown away as soon as other files are placed in this directory.
